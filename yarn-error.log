@@ -1,0 +1,31 @@
+Arguments: 
+  /home/aayush/.nvm/versions/node/v16.14.2/bin/node /home/aayush/.node/corepack/yarn/1.22.15/bin/yarn.js add --dev hardhat
+
+PATH: 
+  /home/aayush/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/bin/remote-cli:/home/aayush/.nvm/versions/node/v16.14.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Python310/Scripts/:/mnt/c/Python310/:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files/Geth:/mnt/c/Python27:/mnt/c/Program Files/Git/cmd:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/nodejs/:/mnt/c/Users/Dell/AppData/Local/Programs/Python/Python39/Scripts/:/mnt/c/Users/Dell/AppData/Local/Programs/Python/Python39/:/mnt/c/Users/Dell/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Dell/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/Dell/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/src/flutter/flutter/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.2.1/bin:/mnt/c/users/dell/.local/bin:/mnt/c/users/dell/appdata/roaming/python/python39/scripts:/mnt/c/Users/Dell/Downloads/go-ipfs_v0.10.0_windows-amd64/go-ipfs:/mnt/c/Users/Dell/Downloads/go-ipfs_v0.10.0_windows-amd64/go-ipfs/ipfs.exe:/mnt/c/Program Files/heroku/bin:/mnt/c/Users/Dell/AppData/Roaming/npm:/snap/bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.14.2
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "hardhat-simple-storage",
+    "version": "1.0.0",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
