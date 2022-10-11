@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Hardhat Simple Storage
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project teach how to use hardhat to interact with our smart contract. Use various hardhat packages to test and gas optimised our smart contract.
 
-Try running some of the following tasks:
+### Smart Contract Address Goerli: 0x279A2eBc698C73B663189a77fafB2DbF2e618366
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+### [EtherScan Link](https://goerli.etherscan.io/address/0x279A2eBc698C73B663189a77fafB2DbF2e618366#code)
